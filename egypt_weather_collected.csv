@@ -1,7 +1,7 @@
 city,temperature_c,windspeed_kmh,observed_at,governorate,population
-Cairo,37.0,9.2,2026-08-07T14:30,Cairo,10000000
-Alexandria,28.6,13.5,2026-08-07T14:30,Alexandria,5362517
-Giza,36.6,10.2,2026-08-07T14:30,Giza,4458135
-Luxor,39.9,20.6,2026-08-07T14:30,Luxor,284952
-Aswan,40.6,26.4,2026-08-07T14:30,Aswan,401890
-Port Said,29.5,21.6,2026-08-07T14:30,Port Said,791749
+Cairo,36.7,9.2,2026-08-07T15:00,Cairo,10000000
+Alexandria,28.1,12.8,2026-08-07T15:00,Alexandria,5362517
+Giza,36.3,9.7,2026-08-07T15:00,Giza,4458135
+Luxor,39.4,19.5,2026-08-07T15:00,Luxor,284952
+Aswan,40.2,25.9,2026-08-07T15:00,Aswan,401890
+Port Said,29.0,21.3,2026-08-07T15:00,Port Said,791749
